@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="280" src="https://i.cartoonnetwork.com/prismo/games/300ro/B10AlienRivals_300x165.gif">
 
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Mlops**
 
 - 💬 Ask me about **python**
 
