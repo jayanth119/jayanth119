@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/jayanth-ch-374550253/" target="blank"><img align="center" src="https://icons-for-free.com/iconfiles/png/512/linkedin+original+icon-1320194901310004124.png" alt="iam " height="30" width="40" /></a>
 <a href="https://www.instagram.com/1_j_a_y_a_n_t_h_1_1_9/" target="blank"><img align="center" src="https://icones.pro/wp-content/uploads/2021/02/instagram-logo-icone4.png" alt="vf" height="30" width="40" /></a>
 </p>
-<!-- ## Use To Code
+
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -69,4 +69,3 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br/>
- -->
