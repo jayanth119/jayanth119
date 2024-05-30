@@ -69,3 +69,4 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br/>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayanth119&show_icons=true&locale=en&layout=compact" alt="jayanth119" /></p>
