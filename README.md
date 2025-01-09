@@ -70,10 +70,6 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br/>
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=jayanth119&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
 
 ---
 
