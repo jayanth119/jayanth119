@@ -72,6 +72,7 @@
 
 
 
+
 ---
 
 
@@ -85,6 +86,9 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jayanth119&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayanth119&theme=blue_green)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jayanth119&theme=blue_green)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=jayanth119&limit=5&theme=dark&combine_all_yearly_contributions=true)
